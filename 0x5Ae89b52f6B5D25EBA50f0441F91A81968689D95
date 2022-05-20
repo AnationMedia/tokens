@@ -1,0 +1,11 @@
+{
+ "name": "A-NATION",
+ "website": "https://anation.media",
+ "description": "First ever tokenized film production company confounded by Chuck Russell, Producer, Director, Writer whose films grossed over a billion worldwide.",
+ "explorer": "https://bscscan.com/address/0x5ae89b52f6b5d25eba50f0441f91a81968689d95",
+ "type": "BEP20",
+ "symbol": "ANATION",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x5ae89b52f6b5d25eba50f0441f91a81968689d95"
+}
